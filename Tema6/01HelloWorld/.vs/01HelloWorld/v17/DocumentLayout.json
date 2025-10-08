@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema6\\01HelloWorld\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema6\\01HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A96F3A8-00D1-4CE0-927C-AAF1DAED828C}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\ll.rodriguez\\desktop\\sistema-de-gestion-empresarial\\tema6\\01helloworld\\01helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A96F3A8-00D1-4CE0-927C-AAF1DAED828C}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema6\\01HelloWorld\\01HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "01HelloWorld\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema6\\01HelloWorld\\01HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "01HelloWorld\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:14:24.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
