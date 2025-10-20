@@ -15,6 +15,13 @@ namespace _01HelloWorld.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.HoraActual = DateTime.Now;
+            return View();
+        }
+
+        public IActionResult TablaMultiplicar()
+        {
+        
             return View();
         }
 

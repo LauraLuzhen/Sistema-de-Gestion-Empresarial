@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Tabla de Multiplicar";
+}
+
+<h2>Tabla de multiplicar del 1 al 10</h2>
+
+<div class="table-responsive">
+    <table class="table text-center align-middle">
+        <thead>
+            <tr>
+                <th scope="col">x</th>
+                @for (int i = 1; i <= 12; i++)
+                {
+                    <th scope="col">@i</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @for (int fila = 1; fila <= 10; fila++)
+            {
+                <tr>
+                    <th scope="row">@fila</th>
+                    @for (int col = 1; col <= 12; col++)
+                    {
+                        <td>@fila * @col = <strong>@(fila * col)</strong></td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
