@@ -1,0 +1,26 @@
+﻿@model List<TuProyecto.Models.DAL.clsPersona>
+
+<h2>Listado de Personas</h2>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>NOMBRE</th>
+            <th>APELLIDOS</th>
+            <th>EDAD</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model)
+        {
+            <tr>
+                <td>@persona.Nombre</td>
+                <td>@persona.Apellidos</td>
+                <td>@persona.Edad</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p><a href="@Url.Action("Index", "Home")">Volver al inicio</a></p>
+<p><a href="@Url.Action("detallePersona", "Home")">Ver persona en posición 3</a></p>

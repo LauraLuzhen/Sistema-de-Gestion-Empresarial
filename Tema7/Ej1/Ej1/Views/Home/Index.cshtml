@@ -1,0 +1,16 @@
+﻿@model TuProyecto.Models.Entities.clsPersona
+
+<h2>@ViewData["Saludo"]</h2>
+<p>Fecha actual: @ViewBag.Fecha</p>
+
+<h3>Datos de la persona:</h3>
+<ul>
+    <li>Nombre: @Model.Nombre</li>
+    <li>Apellidos: @Model.Apellidos</li>
+    <li>Edad: @Model.Edad años</li>
+</ul>
+
+<p><a href="@Url.Action("listadoPersonas", "Home")">Ver listado de personas</a></p>
+
+<p><a href="@Url.Action("detallePersona", "Home")">Ver persona en posición 3</a></p>
+

@@ -1,0 +1,11 @@
+﻿@model TuProyecto.Models.Entities.clsPersona
+
+<h2>Detalle de la Persona (posición 3)</h2>
+
+<ul>
+    <li><strong>Nombre:</strong> @Model.Nombre</li>
+    <li><strong>Apellidos:</strong> @Model.Apellidos</li>
+    <li><strong>Edad:</strong> @Model.Edad años</li>
+</ul>
+
+<p><a href="@Url.Action("listadoPersonas", "Home")">Volver al listado</a></p>

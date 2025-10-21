@@ -1,0 +1,34 @@
+﻿@model TuProyecto.Models.DAL.clsPersona
+
+@using (Html.BeginForm("EditarPersona", "Home", FormMethod.Post))
+{
+    <h2>Editar Persona</h2>
+
+    <div>
+        @Html.LabelFor(m => m.Nombre)
+        @Html.TextBoxFor(m => m.Nombre)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Apellidos)
+        @Html.TextBoxFor(m => m.Apellidos)
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Edad)
+        @Html.TextBoxFor(m => m.Edad)
+    </div>
+
+    <div>
+        <label>Departamento</label>
+        @Html.DropDownListFor(m => m.Departamento.IdDepartamento, (SelectList)ViewBag.ListaDepartamentos)
+    </div>
+
+    <br />
+    <input type="submit" value="Guardar" />
+
+    @if (ViewBag.Mensaje != null)
+    {
+        <p style="color:green">@ViewBag.Mensaje</p>
+    }
+}
