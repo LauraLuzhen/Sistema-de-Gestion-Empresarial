@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "01HelloWorld\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema6\\01HelloWorld\\01HelloWorld\\Controllers\\HomeController.cs",
               "RelativeToolTip": "01HelloWorld\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T08:25:47.097Z",
               "EditorCaption": ""
@@ -64,8 +64,7 @@
               "RelativeToolTip": "01HelloWorld\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T08:14:22.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T08:14:22.689Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "01HelloWorld\\Controllers\\ProductoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T08:11:27.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T08:11:27.133Z"
             }
           ]
         }
