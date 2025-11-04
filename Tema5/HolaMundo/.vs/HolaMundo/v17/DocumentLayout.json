@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\HolaMundo\\",
+  "WorkspaceRootPath": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema5\\HolaMundo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADEABE82-8BEE-4B3A-9113-E6405FDE0B52}|HolaMundo\\HolaMundo.csproj|c:\\users\\ll.rodriguez\\desktop\\sistemas de gesti\u00F3n empresarial\\holamundo\\holamundo\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADEABE82-8BEE-4B3A-9113-E6405FDE0B52}|HolaMundo\\HolaMundo.csproj|solutionrelative:holamundo\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema5\\HolaMundo\\HolaMundo\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HolaMundo\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADEABE82-8BEE-4B3A-9113-E6405FDE0B52}|HolaMundo\\HolaMundo.csproj|C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\HolaMundo\\holamundo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{ADEABE82-8BEE-4B3A-9113-E6405FDE0B52}|HolaMundo\\HolaMundo.csproj|solutionrelative:holamundo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema5\\HolaMundo\\HolaMundo\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HolaMundo\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\HolaMundo\\HolaMundo\\Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema5\\HolaMundo\\HolaMundo\\Default.aspx.cs",
               "RelativeDocumentMoniker": "HolaMundo\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\HolaMundo\\HolaMundo\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema5\\HolaMundo\\HolaMundo\\Default.aspx.cs",
               "RelativeToolTip": "HolaMundo\\Default.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\HolaMundo\\HolaMundo\\Default.aspx",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema5\\HolaMundo\\HolaMundo\\Default.aspx",
               "RelativeDocumentMoniker": "HolaMundo\\Default.aspx",
-              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\HolaMundo\\HolaMundo\\Default.aspx",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema5\\HolaMundo\\HolaMundo\\Default.aspx",
               "RelativeToolTip": "HolaMundo\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
