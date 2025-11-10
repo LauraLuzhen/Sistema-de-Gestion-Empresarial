@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema6\\03_HoraRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC5D2B0-3244-419B-B22B-E8B69A7F9003}|03_HoraRazor\\03_HoraRazor.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema6\\03_horarazor\\03_horarazor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC5D2B0-3244-419B-B22B-E8B69A7F9003}|03_HoraRazor\\03_HoraRazor.csproj|solutionrelative:03_horarazor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC5D2B0-3244-419B-B22B-E8B69A7F9003}|03_HoraRazor\\03_HoraRazor.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema6\\03_horarazor\\03_horarazor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC5D2B0-3244-419B-B22B-E8B69A7F9003}|03_HoraRazor\\03_HoraRazor.csproj|solutionrelative:03_horarazor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema6\\03_HoraRazor\\03_HoraRazor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "03_HoraRazor\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema6\\03_HoraRazor\\03_HoraRazor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "03_HoraRazor\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T17:23:40.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema6\\03_HoraRazor\\03_HoraRazor\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "03_HoraRazor\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema6\\03_HoraRazor\\03_HoraRazor\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "03_HoraRazor\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:23:32.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

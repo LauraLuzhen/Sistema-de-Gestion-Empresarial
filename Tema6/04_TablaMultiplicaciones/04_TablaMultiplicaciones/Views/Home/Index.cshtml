@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Tabla de Multiplicaciones";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table border="1" cellpadding="15" cellspacing="5">
+    <thead>
+        <tr>
+            <th>X</th>
+            @for (int i = 1; i <= 10; i++)
+            {
+                <th>@i</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 1; i <= 10; i++)
+        {
+            <tr>
+                <th>@i</th>
+                @for (int j = 1; j <= 10; j++)
+                {
+                    <td>@i x @j = @(i* j)</td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>

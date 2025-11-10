@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+
+<h2>Hola Mundo</h2>
+
+<form asp-action="Saludar" method="post">
+    <label for="txtNombre">Introduce tu nombre:</label>
+    <input type="text" id="txtNombre" name="txtNombre"/>
+    <button type="submit">Saludar</button>
+</form>
+
+<br />
+
+@if (@ViewBag.Saludo != null)
+{
+    <label id="lblSaludo">@ViewBag.Saludo</label>
+}
+else
+{
+    <label id="lblSaludo" style="color:red">No se ha introducido ningún nombre</label>
+}

@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Hora";
+}
+
+<div>
+    <h1 class="display-4">Hola buenas!!</h1>
+
+    @if (ViewBag.Antes12)
+    {
+        <p>Buenos días son las @ViewBag.Hora</p>
+    } else
+    {
+        <p>Buenas tardes son las @ViewBag.Hora</p>
+    }
+</div>

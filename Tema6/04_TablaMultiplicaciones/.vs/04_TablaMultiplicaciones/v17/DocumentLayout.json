@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema6\\04_TablaMultiplicaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35604BB-B70D-4D3D-A7E6-A50D0BF2BFBE}|04_TablaMultiplicaciones\\04_TablaMultiplicaciones.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema6\\04_tablamultiplicaciones\\04_tablamultiplicaciones\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A35604BB-B70D-4D3D-A7E6-A50D0BF2BFBE}|04_TablaMultiplicaciones\\04_TablaMultiplicaciones.csproj|solutionrelative:04_tablamultiplicaciones\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35604BB-B70D-4D3D-A7E6-A50D0BF2BFBE}|04_TablaMultiplicaciones\\04_TablaMultiplicaciones.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema6\\04_tablamultiplicaciones\\04_tablamultiplicaciones\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35604BB-B70D-4D3D-A7E6-A50D0BF2BFBE}|04_TablaMultiplicaciones\\04_TablaMultiplicaciones.csproj|solutionrelative:04_tablamultiplicaciones\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema6\\04_TablaMultiplicaciones\\04_TablaMultiplicaciones\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "04_TablaMultiplicaciones\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema6\\04_TablaMultiplicaciones\\04_TablaMultiplicaciones\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "04_TablaMultiplicaciones\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T17:50:48.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema6\\04_TablaMultiplicaciones\\04_TablaMultiplicaciones\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "04_TablaMultiplicaciones\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema6\\04_TablaMultiplicaciones\\04_TablaMultiplicaciones\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "04_TablaMultiplicaciones\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:50:48.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

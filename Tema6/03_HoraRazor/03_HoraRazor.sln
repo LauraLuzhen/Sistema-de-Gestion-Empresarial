@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_HoraRazor", "03_HoraRazor\03_HoraRazor.csproj", "{7CC5D2B0-3244-419B-B22B-E8B69A7F9003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC5D2B0-3244-419B-B22B-E8B69A7F9003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC5D2B0-3244-419B-B22B-E8B69A7F9003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC5D2B0-3244-419B-B22B-E8B69A7F9003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC5D2B0-3244-419B-B22B-E8B69A7F9003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54016D89-C1B3-45EF-92DB-B25B6965470B}
+	EndGlobalSection
+EndGlobal
