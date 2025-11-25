@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51E2C64B-E3E4-4B8C-97BA-579F47FDF9FD}|Data\\Data.csproj|c:\\users\\ll.rodriguez\\desktop\\sistema-de-gestion-empresarial\\tema7\\listadopersonasclean\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51E2C64B-E3E4-4B8C-97BA-579F47FDF9FD}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35BA34D3-ED02-42C3-9100-3B4E56269A24}|UI\\UI.csproj|c:\\users\\ll.rodriguez\\desktop\\sistema-de-gestion-empresarial\\tema7\\listadopersonasclean\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA34D3-ED02-42C3-9100-3B4E56269A24}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8152243-153D-44C4-BE00-50D8505A931F}|Domain\\Domain.csproj|c:\\users\\ll.rodriguez\\desktop\\sistema-de-gestion-empresarial\\tema7\\listadopersonasclean\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8152243-153D-44C4-BE00-50D8505A931F}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35BA34D3-ED02-42C3-9100-3B4E56269A24}|UI\\UI.csproj|c:\\users\\ll.rodriguez\\desktop\\sistema-de-gestion-empresarial\\tema7\\listadopersonasclean\\ui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BA34D3-ED02-42C3-9100-3B4E56269A24}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA34D3-ED02-42C3-9100-3B4E56269A24}|UI\\UI.csproj|c:\\users\\ll.rodriguez\\desktop\\sistema-de-gestion-empresarial\\tema7\\listadopersonasclean\\ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BA34D3-ED02-42C3-9100-3B4E56269A24}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA34D3-ED02-42C3-9100-3B4E56269A24}|UI\\UI.csproj|c:\\users\\ll.rodriguez\\desktop\\sistema-de-gestion-empresarial\\tema7\\listadopersonasclean\\ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA34D3-ED02-42C3-9100-3B4E56269A24}|UI\\UI.csproj|solutionrelative:ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\Data\\Class1.cs",
-              "RelativeDocumentMoniker": "Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\Data\\Class1.cs",
-              "RelativeToolTip": "Data\\Class1.cs",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "UI\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:20:33.062Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T13:08:55.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\Domain\\Class1.cs",
-              "RelativeToolTip": "Domain\\Class1.cs",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T13:08:53.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "UI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "UI\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T13:20:14.672Z",
+              "WhenOpened": "2025-10-29T13:08:51.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:48:30.01Z",
               "EditorCaption": ""
             }
           ]
