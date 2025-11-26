@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8152243-153D-44C4-BE00-50D8505A931F}|Domain\\Domain.csproj|c:\\users\\ll.rodriguez\\desktop\\sistema-de-gestion-empresarial\\tema7\\listadopersonasclean\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F8152243-153D-44C4-BE00-50D8505A931F}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8152243-153D-44C4-BE00-50D8505A931F}|Domain\\Domain.csproj|c:\\users\\ll.rodriguez\\desktop\\sistema-de-gestion-empresarial\\tema7\\listadopersonasclean\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8152243-153D-44C4-BE00-50D8505A931F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "UI\\Views\\Home\\Privacy.cshtml",
@@ -52,6 +56,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T12:48:45.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\Domain\\Entities\\Persona.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Departamento.cs",
               "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\Domain\\Entities\\Departamento.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Departamento.cs",
@@ -72,12 +89,11 @@
               "RelativeToolTip": "Domain\\Entities\\Departamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T12:40:35.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T12:40:35.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "UI\\Views\\Home\\Index.cshtml",
@@ -89,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "UI\\Models\\ErrorViewModel.cs",
@@ -101,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistema-de-Gestion-Empresarial\\Tema7\\ListadoPersonasClean\\UI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
@@ -109,8 +125,7 @@
               "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T12:48:30.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T12:48:30.01Z"
             },
             {
               "$type": "Bookmark",
