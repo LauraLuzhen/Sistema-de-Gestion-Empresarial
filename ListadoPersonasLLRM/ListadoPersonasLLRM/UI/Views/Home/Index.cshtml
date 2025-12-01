@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Menú Principal";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Gestión de Personas y Departamentos</h1>
+    <p class="lead">Bienvenido al sistema CRUD. Seleccione la entidad que desea administrar:</p>
+
+    <div class="list-group mt-4" style="max-width: 400px; margin: 0 auto;">
+
+        <a asp-controller="Personas" asp-action="Index" class="list-group-item list-group-item-action list-group-item-primary">
+            Gestión de Personas
+        </a>
+
+        <a asp-controller="Departamentos" asp-action="Index" class="list-group-item list-group-item-action list-group-item-primary">
+            Gestión de Departamentos
+        </a>
+
+    </div>
+</div>

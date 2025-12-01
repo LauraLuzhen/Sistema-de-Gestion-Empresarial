@@ -1,0 +1,47 @@
+﻿@using MandoMissions.Entidades
+@model MandoMissions.Models.MisionViewModel
+
+@{
+    ViewData["Title"] = "Misiones de Cazarrecompensas";
+}
+
+<div class="container">
+    <h2 class="display-4">Contratos de la Nueva República (Mando)</h2>
+    <p>Selecciona una misión para ver los detalles, ¡este es el camino!</p>
+
+    @if (!string.IsNullOrEmpty(Model.MensajeRestriccion))
+    {
+        <div class="alert alert-danger" role="alert">
+            <h4 class="alert-heading">¡Alto!</h4>
+            <p>@Model.MensajeRestriccion</p>
+        </div>
+    }
+    else
+    {
+        <form asp-action="Index" method="post" class="mb-4">
+            <div class="form-group row">
+                <label for="MisionSeleccionada" class="col-sm-3 col-form-label">Seleccionar Misión:</label>
+                <div class="col-sm-6">
+                    @Html.DropDownListFor(m => m.MisionSeleccionada, Model.OpcionesMisiones, "--- Seleccione una misión ---", new { @class = "form-control" })
+                </div>
+                <div class="col-sm-3">
+                    <button type="submit" class="btn btn-primary">Ver detalles</button>
+                </div>
+            </div>
+        </form>
+
+        @if (Model.DetallesMision != null)
+        {
+            <hr />
+            <div class="card border-primary">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">Detalles de Misión: @Model.DetallesMision.Nombre</h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text"><strong>Descripción:</strong> @Model.DetallesMision.Descripcion</p>
+                    <p class="card-text"><strong>Recompensa:</strong> <span class="text-success font-weight-bold">@Model.DetallesMision.Recompensa</span></p>
+                </div>
+            </div>
+        }
+    }
+</div>

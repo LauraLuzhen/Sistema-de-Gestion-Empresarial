@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\ll.rodriguez\\desktop\\sistemas de gesti\u00F3n empresarial\\tema8\\mandaloriano\\mandaloriano\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\ll.rodriguez\\desktop\\sistemas de gesti\u00F3n empresarial\\tema8\\mandaloriano\\mandaloriano\\data\\clsmisionesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\data\\clsmisionesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\ll.rodriguez\\desktop\\sistemas de gesti\u00F3n empresarial\\tema8\\mandaloriano\\mandaloriano\\models\\misionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\models\\misionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\ll.rodriguez\\desktop\\sistemas de gesti\u00F3n empresarial\\tema8\\mandaloriano\\mandaloriano\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\ll.rodriguez\\desktop\\sistemas de gesti\u00F3n empresarial\\tema8\\mandaloriano\\mandaloriano\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\ll.rodriguez\\desktop\\sistemas de gesti\u00F3n empresarial\\tema8\\mandaloriano\\mandaloriano\\usecase\\clsmisionesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\usecase\\clsmisionesusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\ll.rodriguez\\desktop\\sistemas de gesti\u00F3n empresarial\\tema8\\mandaloriano\\mandaloriano\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\ll.rodriguez\\desktop\\sistemas de gesti\u00F3n empresarial\\tema8\\mandaloriano\\mandaloriano\\entidades\\clsmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\entidades\\clsmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|c:\\users\\ll.rodriguez\\desktop\\sistemas de gesti\u00F3n empresarial\\tema8\\mandaloriano\\mandaloriano\\controllers\\misionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420A701D-E275-4C19-B28A-B28F1315FE39}|Mandaloriano\\Mandaloriano.csproj|solutionrelative:mandaloriano\\controllers\\misionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Mandaloriano\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Mandaloriano\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T12:44:07.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Mandaloriano\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Mandaloriano\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T12:47:27.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Mandaloriano\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Mandaloriano\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T12:44:38.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsMisionesUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\UseCase\\clsMisionesUseCase.cs",
+              "RelativeDocumentMoniker": "Mandaloriano\\UseCase\\clsMisionesUseCase.cs",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\UseCase\\clsMisionesUseCase.cs",
+              "RelativeToolTip": "Mandaloriano\\UseCase\\clsMisionesUseCase.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:39:00.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsMisionesDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Data\\clsMisionesDAL.cs",
+              "RelativeDocumentMoniker": "Mandaloriano\\Data\\clsMisionesDAL.cs",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Data\\clsMisionesDAL.cs",
+              "RelativeToolTip": "Mandaloriano\\Data\\clsMisionesDAL.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:38:40.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsMision.cs",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Entidades\\clsMision.cs",
+              "RelativeDocumentMoniker": "Mandaloriano\\Entidades\\clsMision.cs",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Entidades\\clsMision.cs",
+              "RelativeToolTip": "Mandaloriano\\Entidades\\clsMision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:38:20.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mandaloriano\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mandaloriano\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T12:35:12.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MisionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Models\\MisionViewModel.cs",
+              "RelativeDocumentMoniker": "Mandaloriano\\Models\\MisionViewModel.cs",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Models\\MisionViewModel.cs",
+              "RelativeToolTip": "Mandaloriano\\Models\\MisionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:35:17.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MisionesController.cs",
+              "DocumentMoniker": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Controllers\\MisionesController.cs",
+              "RelativeDocumentMoniker": "Mandaloriano\\Controllers\\MisionesController.cs",
+              "ToolTip": "C:\\Users\\ll.rodriguez\\Desktop\\Sistemas de Gesti\u00F3n Empresarial\\Tema8\\Mandaloriano\\Mandaloriano\\Controllers\\MisionesController.cs",
+              "RelativeToolTip": "Mandaloriano\\Controllers\\MisionesController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:35:12.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
