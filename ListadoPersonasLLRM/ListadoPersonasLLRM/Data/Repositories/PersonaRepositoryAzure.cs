@@ -1,7 +1,7 @@
 ﻿using Domain.Entities;
-using Domain.RepositoriesInterfaces;
 using Microsoft.Data.SqlClient;
 using Data.DataBase;
+using Domain.Interfaces.Repositories;
 
 namespace Data.Repositories
 {

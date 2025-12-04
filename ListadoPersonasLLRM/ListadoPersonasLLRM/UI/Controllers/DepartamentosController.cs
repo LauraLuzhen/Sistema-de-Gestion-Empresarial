@@ -1,5 +1,5 @@
 ﻿using Domain.Entities;
-using Domain.RepositoriesUseCases;
+using Domain.Interfaces.UseCases;
 using Microsoft.AspNetCore.Mvc;
 
 namespace UI.Controllers

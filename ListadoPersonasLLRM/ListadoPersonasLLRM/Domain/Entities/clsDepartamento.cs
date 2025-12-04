@@ -32,6 +32,11 @@ namespace Domain.Entities
             this.ID = id;
             this.Nombre = nombre;
         }
+
+        public clsDepartamento(string nombre)
+        {
+            this.Nombre = nombre;
+        }
         #endregion
     }
 }

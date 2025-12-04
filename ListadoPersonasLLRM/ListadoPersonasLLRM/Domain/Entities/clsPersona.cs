@@ -74,6 +74,16 @@ namespace Domain.Entities
             this.IDDepartamento = idDepartamento;
             this.NombreDepartamento = nombreDepartamento;
         }
+
+        public clsPersona(string nombre, string apellidos, string telefono, string direccion, DateTime fechaNacimiento, int idDepartamento)
+        {
+            this.Nombre = nombre;
+            this.Apellidos = apellidos;
+            this.Telefono = telefono;
+            this.Direccion = direccion;
+            this.FechaNacimiento = fechaNacimiento;
+            this.IDDepartamento = idDepartamento;
+        }
         #endregion
     }
 }

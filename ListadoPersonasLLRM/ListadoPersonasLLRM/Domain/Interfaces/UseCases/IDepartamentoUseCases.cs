@@ -1,6 +1,6 @@
 ﻿using Domain.Entities;
 
-namespace Domain.RepositoriesUseCases
+namespace Domain.Interfaces.UseCases
 {
     public interface IDepartamentoUseCases
     {

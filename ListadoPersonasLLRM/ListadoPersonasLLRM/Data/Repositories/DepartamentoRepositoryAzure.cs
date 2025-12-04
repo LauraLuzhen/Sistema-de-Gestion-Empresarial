@@ -1,6 +1,6 @@
 ﻿using Data.DataBase;
 using Domain.Entities;
-using Domain.RepositoriesInterfaces;
+using Domain.Interfaces.Repositories;
 using Microsoft.Data.SqlClient;
 
 namespace Data.Repositories 

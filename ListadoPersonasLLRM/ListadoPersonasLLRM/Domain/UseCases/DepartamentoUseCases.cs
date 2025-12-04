@@ -1,6 +1,6 @@
 ﻿using Domain.Entities;
-using Domain.RepositoriesInterfaces;
-using Domain.RepositoriesUseCases;
+using Domain.Interfaces.Repositories;
+using Domain.Interfaces.UseCases;
 
 namespace Domain.UseCases
 {

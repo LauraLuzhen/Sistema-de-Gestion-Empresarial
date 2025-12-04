@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using Domain.Entities;
 
 
-namespace Domain.RepositoriesInterfaces
+namespace Domain.Interfaces.Repositories
 {
     public interface IPersonaRepository 
     {

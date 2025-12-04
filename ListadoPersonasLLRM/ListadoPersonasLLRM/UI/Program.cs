@@ -1,7 +1,4 @@
 using DI;
-using Domain.RepositoriesInterfaces;
-using Domain.UseCases;
-using Data.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 

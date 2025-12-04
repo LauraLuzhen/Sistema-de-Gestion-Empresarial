@@ -1,5 +1,6 @@
 using Domain.Entities;
-using Domain.RepositoriesInterfaces;
+using Domain.Interfaces.Repositories;
+using Domain.Interfaces.UseCases;
 
 namespace Domain.UseCases
 {
@@ -36,7 +37,7 @@ namespace Domain.UseCases
                 var depto = departamentos.FirstOrDefault(d => d.ID == persona.IDDepartamento);
                 persona.NombreDepartamento = depto?.Nombre ?? "Sin Departamento";
 
-                int imageId = (persona.ID % 70) + 1;
+                int imageId = persona.ID + 1;
                 persona.FotoURL = $"https://i.pravatar.cc/500?img={imageId}";
             }
 

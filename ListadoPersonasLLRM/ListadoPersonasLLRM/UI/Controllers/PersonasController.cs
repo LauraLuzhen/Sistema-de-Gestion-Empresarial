@@ -1,8 +1,7 @@
 ﻿using Domain.Entities;
-using Domain.RepositoriesUseCases; 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using Domain.RepositoriesInterfaces;
+using Domain.Interfaces.UseCases;
 
 namespace UI.Controllers
 {
