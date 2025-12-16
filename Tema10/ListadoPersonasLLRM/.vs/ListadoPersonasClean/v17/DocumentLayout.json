@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\listadopersonasllrm\\ui\\views\\departamentos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|solutionrelative:ui\\views\\departamentos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\listadopersonasllrm\\ui\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|solutionrelative:ui\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\listadopersonasllrm\\ui\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|solutionrelative:ui\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\listadopersonasllrm\\ui\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|solutionrelative:ui\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\listadopersonasllrm\\ui\\views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|solutionrelative:ui\\views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\listadopersonasllrm\\ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\listadopersonasllrm\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A77536-1393-46F3-BC17-F34D4EA7E536}|Data\\Data.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\listadopersonasllrm\\data\\repositories\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A77536-1393-46F3-BC17-F34D4EA7E536}|Data\\Data.csproj|solutionrelative:data\\repositories\\personarepositoryazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\listadopersonasllrm\\ui\\views\\personas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|solutionrelative:ui\\views\\personas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\listadopersonasllrm\\ui\\views\\personas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|solutionrelative:ui\\views\\personas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\listadopersonasllrm\\ui\\views\\personas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6713CEC-2F8B-4D3A-AA74-E1EA437C5734}|UI\\UI.csproj|solutionrelative:ui\\views\\personas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Departamentos\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Departamentos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Departamentos\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Departamentos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T00:11:12.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\DepartamentosController.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "UI\\Controllers\\DepartamentosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T00:05:51.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "UI\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T22:57:36.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonaRepositoryAzure.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\Data\\Repositories\\PersonaRepositoryAzure.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PersonaRepositoryAzure.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\Data\\Repositories\\PersonaRepositoryAzure.cs",
+              "RelativeToolTip": "Data\\Repositories\\PersonaRepositoryAzure.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T22:43:52.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T22:20:14.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T22:20:07.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Personas\\Create.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Personas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Personas\\Create.cshtml",
+              "RelativeToolTip": "UI\\Views\\Personas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T21:48:21.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Personas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Personas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Personas\\Delete.cshtml",
+              "RelativeToolTip": "UI\\Views\\Personas\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T21:48:21.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Personas\\Details.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Personas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Personas\\Details.cshtml",
+              "RelativeToolTip": "UI\\Views\\Personas\\Details.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T21:48:20.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Personas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Personas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Personas\\Edit.cshtml",
+              "RelativeToolTip": "UI\\Views\\Personas\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T21:48:19.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Personas\\Index.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Personas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ListadoPersonasLLRM\\UI\\Views\\Personas\\Index.cshtml",
+              "RelativeToolTip": "UI\\Views\\Personas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T21:48:19.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿@model Proyecto.Domain.Dtos.PlantaPorNombreCategoriaDto
+
+@{
+    ViewData["Title"] = "Asignar Precio";
+}
+
+<h2>Asignar Precio a: @Model.planta.nombre</h2>
+
+<div class="card" style="width: 100%; margin-top: 20px;">
+    <div class="card-body">
+        <h5 class="card-title">Detalles de la Planta</h5>
+        <p class="card-text"><strong>Descripción:</strong> @Model.planta.descripcion</p>
+        <p class="card-text"><strong>Categoría:</strong> @Model.planta.nombreCategoria</p>
+        <p class="card-text"><strong>Precio Actual:</strong> <span class="badge bg-info text-dark">@Model.planta.precio.ToString("C2")</span></p>
+
+        <hr />
+
+        @* Mostrar mensaje de error si el precio no es superior al anterior *@
+        @if (ViewBag.MensajeError != null)
+        {
+            <div class="alert alert-danger" role="alert">
+                @ViewBag.MensajeError
+            </div>
+        }
+
+        <form asp-controller="Planta" asp-action="GuardarPrecio" method="post">
+            @* Campo oculto para enviar el ID al controlador *@
+            <input type="hidden" name="id" value="@Model.planta.id" />
+
+            <div class="form-group">
+                <label for="precio">Nuevo Precio:</label>
+                <input type="number" name="precio" id="precio" step="0.01" class="form-control" style="width: 200px;" required />
+                <small class="form-text text-muted">Recuerde que debe ser mayor a @Model.planta.precio.ToString("C2")</small>
+            </div>
+
+            <div style="margin-top: 20px;">
+                <button type="submit" class="btn btn-primary">Guardar</button>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div>
+</div>

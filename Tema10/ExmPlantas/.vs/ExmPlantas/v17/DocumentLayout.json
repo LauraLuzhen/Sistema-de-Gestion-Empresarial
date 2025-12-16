@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ExmPlantas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B6B2E7-F09A-4EF9-B02A-97FDBC4087B0}|ExmPlantas\\ui.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\exmplantas\\exmplantas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B6B2E7-F09A-4EF9-B02A-97FDBC4087B0}|ExmPlantas\\ui.csproj|solutionrelative:exmplantas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928DDD13-3426-4F75-8134-88EE56738AB2}|Domain\\Domain.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\exmplantas\\domain\\entities\\clsplanta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928DDD13-3426-4F75-8134-88EE56738AB2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\clsplanta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928DDD13-3426-4F75-8134-88EE56738AB2}|Domain\\Domain.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\exmplantas\\domain\\entities\\clscategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928DDD13-3426-4F75-8134-88EE56738AB2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\clscategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C40494-404B-474D-8D40-2A4311E0EFDE}|Data\\Data.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\exmplantas\\data\\repositories\\plantasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C40494-404B-474D-8D40-2A4311E0EFDE}|Data\\Data.csproj|solutionrelative:data\\repositories\\plantasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C40494-404B-474D-8D40-2A4311E0EFDE}|Data\\Data.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\tema10\\exmplantas\\data\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C40494-404B-474D-8D40-2A4311E0EFDE}|Data\\Data.csproj|solutionrelative:data\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ExmPlantas\\ExmPlantas\\Program.cs",
+              "RelativeDocumentMoniker": "ExmPlantas\\Program.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ExmPlantas\\ExmPlantas\\Program.cs",
+              "RelativeToolTip": "ExmPlantas\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:17:04.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsPlanta.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ExmPlantas\\Domain\\Entities\\clsPlanta.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\clsPlanta.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ExmPlantas\\Domain\\Entities\\clsPlanta.cs",
+              "RelativeToolTip": "Domain\\Entities\\clsPlanta.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIA8wAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:14:47.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlantasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ExmPlantas\\Data\\Repositories\\PlantasRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PlantasRepository.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ExmPlantas\\Data\\Repositories\\PlantasRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PlantasRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAawCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:14:38.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ExmPlantas\\Data\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ExmPlantas\\Data\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:14:36.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ExmPlantas\\Domain\\Entities\\clsCategoria.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\clsCategoria.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Tema10\\ExmPlantas\\Domain\\Entities\\clsCategoria.cs",
+              "RelativeToolTip": "Domain\\Entities\\clsCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:14:33.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

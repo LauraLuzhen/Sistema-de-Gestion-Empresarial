@@ -1,0 +1,63 @@
+﻿@model Proyecto.Domain.Dtos.ListadoPlantaPorCategoriaDto
+
+@{
+    ViewData["Title"] = "Mercado de Plantas Medicinales";
+}
+
+<h1>Gestión de Plantas</h1>
+
+<div class="search-container" style="margin-bottom: 20px; padding: 15px; background-color: #f8f9fa;">
+    <form asp-controller="Home" asp-action="Index" method="get">
+        <label for="idCategoria">Seleccione una Categoría:</label>
+
+        @* Desplegable de categorías *@
+        <select name="idCategoria" id="idCategoria" class="form-control" style="width: 250px; display: inline-block;">
+            <option value="">-- Seleccione --</option>
+            @foreach (var cat in Model.listaCategorias)
+            {
+                <option value="@cat.id" selected="@(cat.id == Model.idCategoria)">
+                    @cat.nombre
+                </option>
+            }
+        </select>
+
+        <button type="submit" class="btn btn-primary">Buscar Plantas</button>
+    </form>
+</div>
+
+<hr />
+
+@* Tabla de resultados *@
+@if (Model.idCategoria > 0)
+{
+    @if (Model.listaPlantas != null && Model.listaPlantas.Count > 0)
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Nombre de la Planta</th>
+                    <th>Precio Actual</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var planta in Model.listaPlantas)
+                {
+                    <tr>
+                        <td>@planta.nombre</td>
+                        <td>@planta.precio.ToString("C2")</td>
+                        <td>
+                            <a asp-controller="Planta" asp-action="UpdatePrecio" asp-route-id="@planta.id" class="btn btn-sm btn-success">
+                                Asignar precio
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No se encontraron plantas en esta categoría.</p>
+    }
+}

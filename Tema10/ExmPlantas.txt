@@ -1,0 +1,90 @@
+Vista 1
+	Seleccionar categ con un botón --> Listado según categoría
+	Listado: nombre, asignar precio
+Vista 2
+	Nombre, descripción, categoría
+	Campo para introducir el precio y botón guardar
+	
+proyecto/
+	DI/
+		Container.cs
+	Data/
+		Repositories/
+			CategoriaRepository.cs
+				# Implementación ICategoriaRepository
+				+ getAll(): List<Categoria>
+				+ getNombreCategoriaById(int id): String
+			PlantasRepository.cs
+				# Implementación IPlantasRepository
+				+ getPlantaByCategoriaId(int id): List<Planta>
+				+ getPlantaById(int id): Planta
+				+ updatePrecio(int id, double precio): int
+		DataBase/
+			clsConnection.cs
+	Domain/
+		Entities/
+			clsPlanta.cs
+				+ int id { get; set }
+				+ string nombre { get; set }
+				+ string descripcion { get; set }
+				+ double precio { get; set }
+				+ int idCategoria { get; set }
+				+ string nombreCategoria { get; set }
+				+ Planta()
+				+ Planta(int id, string nombre, string descripcion, double precio, int idCategoria)
+				+ Planta(int id, string nombre, string descripcion, double precio, int idCategoria, string nombreCategoria)
+			clsCategoria.cs
+				+ int id { get; set }
+				+ string nombre { get; set }
+				+ Categoria()
+				+ Categoria(int id, string nombre)
+		Dtos/
+			ListadoPlantaPorCategoriaDto.cs
+				+ int idCategoria
+				+ List<Planta>
+			PlantaPorNombreCategoriaDto.cs
+				+ int idPlanta
+				+ Planta
+		UseCases/
+			CateogriaUseCase.cs
+				# Implementación ICateogriaUseCase
+				# Inyección ICategoriaRepository
+				+ getAllCategorias(): List<Categoria>
+				+ getNombreCategoriaPorId(int id): String
+			PlantaUseCase.cs
+				# Implementación IPlantaUseCase
+				# Inyección ICategoriaRepository, IPlantasRepository
+				+ updatePrecioPlanta(int id, double precio): int
+				+ getListadoPlantaPorCategoria(int? idCategoria): ListadoPlantaPorCategoriaDto
+				+ getPlataPorNombreCategoria(int? idPlanta): PlantaPorNombreCategoriaDto
+		Interfaces/
+			Repositories/
+				ICategoriaRepository.cs
+					+ getAll(): List<Categoria>
+					+ getNombreCategoriaById(int id): String
+				IPlantasRepository.cs
+					+ getPlantaByCategoriaId(int id): List<Planta>
+					+ getPlantaById(int id): Planta
+					+ updatePlanta(int id, double precio): int
+			UseCases/
+				ICateogriaUseCase.cs
+					+ getAllCategorias(): List<Categoria>
+					+ getNombreCategoriaPorId(int id): String
+				IPlantaUseCase.cs
+					+ updatePrecioPlanta(int id, double precio): int
+					+ getListadoPlantaPorCategoria(int? idCategoria): ListadoPlantaPorCategoriaDto
+					+ getPlataPorNombreCategoria(int? idPlanta): PlantaPorNombreCategoriaDto	
+	UI/
+		Models/
+		Controllers/
+			PlantaController.cs
+				# Inyección IPlantaUseCase
+			HomeController.cs
+				# Inyección ICateogriaUseCase, IPlantaUseCase
+		views/
+			Plata/
+				UpdatePrecio.cshtml
+			Home/			
+				Index.cshtml
+			
+	
