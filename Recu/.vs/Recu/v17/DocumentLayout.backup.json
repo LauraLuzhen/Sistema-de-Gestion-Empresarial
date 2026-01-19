@@ -1,12 +1,395 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\recu\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|solutionrelative:recu\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\recu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|solutionrelative:recu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B2B803-8BBC-42F9-8574-53B7F5524116}|Data\\Data.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\data\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B2B803-8BBC-42F9-8574-53B7F5524116}|Data\\Data.csproj|solutionrelative:data\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58517936-C101-40E4-8659-75B7E02B5604}|DI\\DI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\di\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58517936-C101-40E4-8659-75B7E02B5604}|DI\\DI.csproj|solutionrelative:di\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\recu\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|solutionrelative:recu\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58517936-C101-40E4-8659-75B7E02B5604}|DI\\DI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\di\\di.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58517936-C101-40E4-8659-75B7E02B5604}|DI\\DI.csproj|solutionrelative:di\\di.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\domain\\usecases\\listadousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\listadousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B2B803-8BBC-42F9-8574-53B7F5524116}|Data\\Data.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\data\\repositories\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B2B803-8BBC-42F9-8574-53B7F5524116}|Data\\Data.csproj|solutionrelative:data\\repositories\\departamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\domain\\interfaces\\repositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\idepartamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\domain\\interfaces\\repositories\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\repositories\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\recu\\models\\personaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|solutionrelative:recu\\models\\personaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\domain\\usecases\\comprobarusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|solutionrelative:domain\\usecases\\comprobarusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\recu\\views\\game\\_personarow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|solutionrelative:recu\\views\\game\\_personarow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\recu\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|solutionrelative:recu\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\recu\\models\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E6C971-6D0D-418A-B6A3-496929F67CE7}|Recu\\UI.csproj|solutionrelative:recu\\models\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\domain\\interfaces\\usecases\\icomprobarusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\usecases\\icomprobarusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\domain\\interfaces\\usecases\\ilistadousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\usecases\\ilistadousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A2D24-E9EF-481A-B9F3-7B171935D11F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ECBEDA-E856-4E68-A3EF-1637F88B7E9E}|Core\\Core.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\core\\constants\\appcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ECBEDA-E856-4E68-A3EF-1637F88B7E9E}|Core\\Core.csproj|solutionrelative:core\\constants\\appcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B2B803-8BBC-42F9-8574-53B7F5524116}|Data\\Data.csproj|c:\\users\\luzhen\\desktop\\repositorios github\\sistema-de-gestion-empresarial\\recu\\data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B2B803-8BBC-42F9-8574-53B7F5524116}|Data\\Data.csproj|solutionrelative:data\\database\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDepartamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IDepartamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:49:52.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Repositories\\IPersonaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:49:45.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Program.cs",
+              "RelativeDocumentMoniker": "Recu\\Program.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Program.cs",
+              "RelativeToolTip": "Recu\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:53:10.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\DI\\Container.cs",
+              "RelativeDocumentMoniker": "DI\\Container.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\DI\\Container.cs",
+              "RelativeToolTip": "DI\\Container.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:52:48.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Data\\Repositories\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PersonaRepository.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Data\\Repositories\\PersonaRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PersonaRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA8wB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:48:43.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAH8IAAAAAAAAAAAnwIUIAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-07T19:26:05.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "Recu\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "Recu\\Views\\Game\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T18:57:50.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Data\\Repositories\\DepartamentoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\DepartamentoRepository.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Data\\Repositories\\DepartamentoRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\DepartamentoRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:48:51.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\UI.csproj",
+              "RelativeDocumentMoniker": "Recu\\UI.csproj",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\UI.csproj",
+              "RelativeToolTip": "Recu\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T19:12:05.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Entities\\Departamento.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Departamento.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Entities\\Departamento.cs",
+              "RelativeToolTip": "Domain\\Entities\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:49:19.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DI.csproj",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\DI\\DI.csproj",
+              "RelativeDocumentMoniker": "DI\\DI.csproj",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\DI\\DI.csproj",
+              "RelativeToolTip": "DI\\DI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T19:23:11.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListadoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Usecases\\ListadoUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\Usecases\\ListadoUseCase.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Usecases\\ListadoUseCase.cs",
+              "RelativeToolTip": "Domain\\Usecases\\ListadoUseCase.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:49:28.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Models\\PersonaViewModel.cs",
+              "RelativeDocumentMoniker": "Recu\\Models\\PersonaViewModel.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Models\\PersonaViewModel.cs",
+              "RelativeToolTip": "Recu\\Models\\PersonaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:50:41.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ComprobarUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Usecases\\ComprobarUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\Usecases\\ComprobarUseCase.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Usecases\\ComprobarUseCase.cs",
+              "RelativeToolTip": "Domain\\Usecases\\ComprobarUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:49:35.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T18:58:51.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_PersonaRow.cshtml",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Views\\Game\\_PersonaRow.cshtml",
+              "RelativeDocumentMoniker": "Recu\\Views\\Game\\_PersonaRow.cshtml",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Views\\Game\\_PersonaRow.cshtml",
+              "RelativeToolTip": "Recu\\Views\\Game\\_PersonaRow.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T18:51:49.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Recu\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Recu\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:50:16.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Models\\GameViewModel.cs",
+              "RelativeDocumentMoniker": "Recu\\Models\\GameViewModel.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Recu\\Models\\GameViewModel.cs",
+              "RelativeToolTip": "Recu\\Models\\GameViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:51:10.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IComprobarUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Interfaces\\Usecases\\IComprobarUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Usecases\\IComprobarUseCase.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Interfaces\\Usecases\\IComprobarUseCase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Usecases\\IComprobarUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:50:07.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IListadoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Interfaces\\Usecases\\IListadoUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Usecases\\IListadoUseCase.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Interfaces\\Usecases\\IListadoUseCase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Usecases\\IListadoUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:50:00.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Domain\\Entities\\Persona.cs",
+              "RelativeToolTip": "Domain\\Entities\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:49:09.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppColors.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Core\\Constants\\AppColors.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\AppColors.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Core\\Constants\\AppColors.cs",
+              "RelativeToolTip": "Core\\Constants\\AppColors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:46:26.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Data\\DataBase\\Connection.cs",
+              "RelativeDocumentMoniker": "Data\\DataBase\\Connection.cs",
+              "ToolTip": "C:\\Users\\LuZhen\\Desktop\\Repositorios GitHub\\Sistema-de-Gestion-Empresarial\\Recu\\Data\\DataBase\\Connection.cs",
+              "RelativeToolTip": "Data\\DataBase\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:45:26.571Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

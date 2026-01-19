@@ -1,0 +1,66 @@
+﻿@model UI.Models.GameViewModel
+
+<style>
+    /* Contenedor del botón flotante */
+    .floating-container {
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%); /* Centra el botón horizontalmente */
+        z-index: 1050; /* Asegura que esté por encima de las cards */
+        width: 90%;
+        max-width: 400px; /* Tamaño máximo para que no ocupe toda la pantalla en PC */
+    }
+
+    /* Añadimos un margen al final del contenedor principal para que
+       el botón no tape la última tarjeta al hacer scroll hasta abajo */
+    .game-content {
+        padding-bottom: 100px;
+    }
+
+    /* Efecto de hover para que se note que es interactivo */
+    .btn-floating {
+        transition: all 0.3s ease;
+        border: 2px solid white;
+    }
+
+    .btn-floating:hover {
+        transform: scale(1.05);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.3) !important;
+    }
+</style>
+
+<div class="container mt-4 game-content">
+    <div class="text-center mb-5">
+        <h1 class="display-4 fw-bold">Juego: Adivina el Departamento</h1>
+        <p class="lead">Usa las pistas de colores para ganar.</p>
+    </div>
+
+    @if (Model.MensajeFinal != null)
+    {
+        <div class="alert @(Model.Gano == true ? "alert-success" : "alert-danger") text-center shadow mb-4">
+            <h4 class="mb-0">@Model.MensajeFinal</h4>
+        </div>
+    }
+
+    <form asp-action="Index" method="post">
+        <div class="row justify-content-center">
+            <div class="col-md-9">
+
+                @for (int i = 0; i < Model.Personas.Count; i++)
+                {
+                    <partial name="_PersonaRow"
+                             model="Model.Personas[i]"
+                             view-data='new ViewDataDictionary(ViewData) { { "Index", i }, { "Departamentos", Model.Departamentos } }' />
+                }
+
+                <div class="floating-container">
+                    <button type="submit" class="btn btn-primary btn-lg w-100 shadow-lg fw-bold btn-floating">
+                        🚀 Comprobar Resultados
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </form>
+</div>
