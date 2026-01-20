@@ -1,0 +1,42 @@
+﻿@model UI.Models.PersonaViewModel
+
+@{
+    // Recuperamos la lista de departamentos desde el ViewData
+    // que le pasaremos desde la vista principal.
+    var departamentos = ViewData["Departamentos"] as List<Domain.Entities.Departamento>;
+    var index = ViewData["Index"]; // Necesario para que el formulario funcione al hacer POST
+}
+
+<div class="card mb-3 border-0 shadow-sm"
+     style="background-color: @Model.ColorClue !important; transition: transform 0.2s;">
+    <div class="card-body d-flex align-items-center justify-content-between">
+
+        @* Inputs ocultos para que el controlador reciba los datos de vuelta *@
+        <input type="hidden" name="Personas[@index].Id" value="@Model.Id" />
+        <input type="hidden" name="Personas[@index].NombreCompleto" value="@Model.NombreCompleto" />
+        <input type="hidden" name="Personas[@index].ColorClue" value="@Model.ColorClue" />
+
+        <div class="flex-grow-1">
+            <h5 class="mb-0 fw-bold text-dark">@Model.NombreCompleto</h5>
+            <small class="text-muted">Pista: Este color representa a su departamento</small>
+        </div>
+
+        <div class="w-50">
+            <select name="Personas[@index].IdDepartamentoSeleccionado"
+                    class="form-select shadow-sm @(Model.EsCorrecto.HasValue ? (Model.EsCorrecto.Value ? "is-valid" : "is-invalid") : "")">
+                <option value="0">¿En qué departamento trabaja?</option>
+                @foreach (var dept in departamentos)
+                {
+                    @* Comprobamos si es el seleccionado para mantener la opción tras el POST *@
+                    <option value="@dept.Id" selected="@(Model.IdDepartamentoSeleccionado == dept.Id)">
+                        @dept.Nombre
+                    </option>
+                }
+            </select>
+            @if (Model.EsCorrecto == false)
+            {
+                <div class="invalid-feedback fw-bold">Incorrecto</div>
+            }
+        </div>
+    </div>
+</div>
