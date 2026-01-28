@@ -54,6 +54,7 @@ namespace Data.Repositories
         public int Insert(clsPersona persona)
         {
             string connectionString = clsConnection.GetConnectionString();
+
             string sql = @"
             INSERT INTO Personas (Nombre, Apellidos, Telefono, Direccion, FechaNacimiento, IDDepartamento) 
             VALUES (@Nombre, @Apellidos, @Telefono, @Direccion, @FechaNacimiento, @IDDepartamento); 

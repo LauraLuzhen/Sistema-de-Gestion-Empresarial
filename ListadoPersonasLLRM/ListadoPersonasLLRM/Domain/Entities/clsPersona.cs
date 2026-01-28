@@ -32,7 +32,7 @@ namespace Domain.Entities
 
         public int IDDepartamento { get; set; }
 
-        public string NombreDepartamento { get; set; }
+        public string? NombreDepartamento { get; set; }
         #endregion
 
         #region Constructores
@@ -49,30 +49,6 @@ namespace Domain.Entities
             this.FotoURL = string.Empty;
             this.FechaNacimiento = DateTime.Today;
             this.IDDepartamento = 0;
-        }
-
-        /// <summary>
-        /// Constructor con todos los parámetros
-        /// </summary>
-        /// <param name="id">El ID de la persona</param>
-        /// <param name="nombre">El nombre de la persona</param>
-        /// <param name="apellidos">Los apellidos de la persona</param>
-        /// <param name="telefono">El teléfono de la persona</param>
-        /// <param name="direccion">La dirección de la vivienda de la persona</param>
-        /// <param name="foto">La foto de la persona</param>
-        /// <param name="fechaNacimiento">La fecha de nacimiento de la persona</param>
-        /// <param name="idDepartamento">El ID del departamento al cual pertenece la persona</param>
-        public clsPersona(int id, string nombre, string apellidos, string telefono, string direccion, string foto, DateTime fechaNacimiento, int idDepartamento, string nombreDepartamento)
-        {
-            this.ID = id;
-            this.Nombre = nombre;
-            this.Apellidos = apellidos;
-            this.Telefono = telefono;
-            this.Direccion = direccion;
-            this.FotoURL = foto;
-            this.FechaNacimiento = fechaNacimiento;
-            this.IDDepartamento = idDepartamento;
-            this.NombreDepartamento = nombreDepartamento;
         }
 
         public clsPersona(string nombre, string apellidos, string telefono, string direccion, DateTime fechaNacimiento, int idDepartamento)
